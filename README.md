@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile,i'm glad to share a little about myself 👋
 
-I'm a backend developer and my preferred language is Java 🤌
+I'm a backend developer and my preferred language is C# and JAVA 🤌
 
 ### Contact me:
 
