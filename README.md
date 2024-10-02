@@ -1,6 +1,10 @@
 ### Hi, welcome to my profile,i'm glad to share a little about myself 👋
 
-I'm a backend developer and my preferred language is C# and JAVA 🤌
+I study information systems at PUC Minas and this repository is dedicated to showcasing my work and acquired knowledge.
+
+This repository will contain programming languages ​​and some academic projects.
+
+Languages ​​Html, CSS, C#, Java... 🤌
 
 ### Contact me:
 
