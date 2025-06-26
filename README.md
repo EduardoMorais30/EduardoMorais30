@@ -4,7 +4,8 @@ I study information systems at PUC Minas and this repository is dedicated to sho
 
 This repository will contain programming languages ​​and some academic projects.
 
-Languages ​​Html, CSS, C#, Java... 🤌
+Languages: ​​Html, CSS, JavaScript... 🤌
+Tests:
 
 ### Contact me:
 
